@@ -223,7 +223,7 @@ If this passes, your API never leaks internal details — regardless of what bre
 - **Adding a new error type is three lines**: add to the enum, add to the status map, add a default message
 - **OpenAPI docs are accurate automatically** — Pydantic generates response schemas for every endpoint
 
-The full working code with all 15 tests is [on GitHub](#).
+The full working code with all 15 tests is [on GitHub](https://github.com/Megh-bot/fastapi-error-handling).
 
 ---
 
